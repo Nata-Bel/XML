@@ -1,8 +1,8 @@
 <xml>
-  <ID>"1001"</ID>
+	<ID>"1001"</ID>
 	<Summary>"На главной странице сайта отсутствует логотип компании"</Summary>
-  <Severity>"Trivial"</Severity>
-  <Priority>"High"</Priority>
-	<Steps to Reproduce>"Перейти на сайт example.com."</Steps to Reproduce>
+	<Severity>"Trivial"</Severity>
+	<Priority>"High"</Priority>
+	<Steps_to_Reproduce>"Перейти на сайт example.com."</Steps_to_Reproduce>
 	<Result>"В шапке главной страницы сайта отсутствует логотип компании"</Result>
-	<Expected Result>"В шапке главной страницы сайта изображен логотип компании"</Expected Result>
+	<Expected_Result>"В шапке главной страницы сайта изображен логотип компании"</Expected_Result>
